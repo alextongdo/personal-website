@@ -225,7 +225,7 @@ article.active {
 .h4,
 .h5 {
   color: var(--white-2);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 .h2 { font-size: var(--fs-1); }
@@ -440,7 +440,7 @@ main {
 
 .social-item .social-link {
   color: var(--light-gray-70);
-  font-size: 18px;
+  font-size: 24px;
 }
 
 
@@ -827,6 +827,16 @@ main {
   color: var(--light-gray);
   font-weight: var(--fw-300);
   line-height: 1.6;
+}
+
+.timeline-text > a {
+  color: var(--vegas-gold);
+  display: inline;
+}
+
+.timeline-text > a:hover {
+  color: var(--orange-yellow-crayola);
+  text-decoration: underline;
 }
 
 
