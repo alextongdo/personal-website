@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="108.60387"
+   height="106.887"
+   viewBox="0 0 21.191 20.856"
+   fill="#ffdb70"
+   stroke="#ffdb70"
+   stroke-width="0.00024"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="icon-dataq.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#ffdb70;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#ffbb5c;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2-1">
+      <stop
+         style="stop-color:#ffdb70;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#ffbb5c;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient18"
+       x1="2.0524979"
+       y1="2.2557156"
+       x2="23.18713"
+       y2="23.024555"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.601626"
+     inkscape:cx="51.293396"
+     inkscape:cy="50.251905"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="SVGRepo_iconCarrier"
+     style="stroke:none;stroke-width:0.00019512;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-2,-2.2)">
+    <path
+       d="M 10.238,20.746 C 5.714,20.481 3,19.228 3,18.3 v -6.282 c 1.708,1.173 5.366,1.782 9,1.782 3.634,0 7.292,-0.609 9,-1.782 v 1.2 l 0.915,-0.364 C 21.943,12.842 21.972,12.839 22,12.829 V 5.5 C 22,3.333 16.97,2.2 12,2.2 7.03,2.2 2,3.333 2,5.5 v 12.8 c 0,2.155 4.628,3.367 9.239,3.488 L 10.605,21.192 A 2.493,2.493 0 0 1 10.238,20.746 Z M 12,3.2 c 5.494,0 9,1.362 9,2.3 0,0.938 -3.506,2.3 -9,2.3 C 6.506,7.8 3,6.438 3,5.5 3,4.562 6.506,3.2 12,3.2 Z M 3,7.018 C 4.708,8.191 8.366,8.8 12,8.8 c 3.634,0 7.292,-0.609 9,-1.782 V 10.5 c 0,0.938 -3.506,2.3 -9,2.3 -5.494,0 -9,-1.363 -9,-2.3 z m 19.491,7.8 0.7,0.716 -7.684,7.522 -3.531,-3.32 0.685,-0.73 2.832,2.664 z"
+       id="path1"
+       style="fill:url(#linearGradient18);fill-opacity:1;stroke:none;stroke-width:0.00019512;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="path1" />
+  </g>
+</svg>
